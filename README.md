@@ -13,7 +13,7 @@ The hole project has different folders:
 
 ![image](https://github.com/luisrubiofuentes/TFG/assets/113974603/d9ddc8bc-d546-49e6-b7ff-bf5cebc68323)
 
-The photos of the needed materials is in the path "BOM-Materials" and here are the LINK to get them:
+The photos of the needed materials are in the path "BOM-Materials" and here are the LINK to get them:
 
 Resistor 10K        	https://es.rs-online.com/web/p/resistencias-de-montaje-en-
 Condensador 0,1 uF	https://es.rs-online.com/web/p/condensadores-ceramicos
